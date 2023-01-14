@@ -2,6 +2,7 @@
 ### Banner code
 `mezzanine/core/management/commands/runserver.py
 ### Template Structure
-```
-Mezzanine Project
-```
+templates:
+- index.html
+- admin
+    - login.html
